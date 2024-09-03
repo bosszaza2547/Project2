@@ -43,6 +43,8 @@ namespace Project2
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+            _spriteBatch.Begin();
+            _spriteBatch.End();
 
             // TODO: Add your drawing code here
 
