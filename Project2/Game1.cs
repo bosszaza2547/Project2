@@ -8,6 +8,8 @@ namespace Project2
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int ten = 10;
+        private int ten2 = 10;
 
         public Game1()
         {
