@@ -10,6 +10,7 @@ namespace Project2
         private SpriteBatch _spriteBatch;
         private int ten = 10;
         private int ten2 = 10;
+        private int ten3 = 10;
 
         public Game1()
         {
