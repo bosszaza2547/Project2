@@ -11,7 +11,7 @@ namespace Project2
         private int ten = 10;
         private int ten2 = 10;
         private int ten3 = 10;
-
+        private int ten4 = 10;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
